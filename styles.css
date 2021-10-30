@@ -87,6 +87,7 @@ form input[type="password"] {
 }
 .frgt-pswd {
   font-size: 0.87rem;
+  width: 100%
 }
 label {
   display: block;
